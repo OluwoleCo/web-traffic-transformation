@@ -1,8 +1,8 @@
-#Installation
+# Installation
 
 `pip3 install -r requirements.txt`
 
-#Usage
+# Usage
 
 Run:
 `python3 main.py`
